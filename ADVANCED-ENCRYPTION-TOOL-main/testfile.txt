@@ -1,0 +1,2 @@
+This is a test file for the AES-256 encryption tool.
+You can use this file to verify encryption and decryption functionality. 
